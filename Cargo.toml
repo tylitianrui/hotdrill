@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/hotdrill-core",
+    "crates/hotdrill-cli",
+]
+resolver = "2"
