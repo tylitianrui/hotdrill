@@ -1,2 +1,3 @@
-# hotdrill
-Embedded Profile Database and Call-Tree Query Engine
+# Hotdrill
+
+Hotdrill is an embedded profile database and call-tree query engine.
